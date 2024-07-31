@@ -1,0 +1,75 @@
+[
+  {
+    "geoPosition": [49.95783091456823, 22.83928937112301],
+    "name": "Extra-Carp Radymno",
+    "addressLineOne": "Ul. Piaskowa",
+    "addressLineTwo": "37-550 Radymno",
+    "waterSurface": "20ha",
+    "waterDepth": "8m",
+    "positions": 19,
+    "fishes": "5-31kg",
+    "phone": "793 026 620",
+    "url": "https://extraradymno.pl/"
+
+  },
+  {
+    "geoPosition": [49.85783091456823, 22.8128937112301],
+    "name": "Extra-Carp Radymno2",
+    "addressLineOne": "Ul. Piaskowa2",
+    "addressLineTwo": "37-550 Radymno2",
+    "waterSurface": "20ha",
+    "waterDepth": "8m",
+    "positions": 19,
+    "fishes": "5-31kg",
+    "phone": "793 026 620",
+    "url": "https://extraradymno.pl/"
+  },
+  {
+    "geoPosition": [49.45783091456823, 22.8128937112301],
+    "name": "Extra-Carp Radymno2",
+    "addressLineOne": "Ul. Piaskowa2",
+    "addressLineTwo": "37-550 Radymno2",
+    "waterSurface": "20ha",
+    "waterDepth": "8m",
+    "positions": 19,
+    "fishes": "5-31kg",
+    "phone": "793 026 620",
+    "url": "https://extraradymno.pl/"
+  },
+  {
+    "geoPosition": [49.55783091456823, 22.8128937112301],
+    "name": "Extra-Carp Radymno2",
+    "addressLineOne": "Ul. Piaskowa2",
+    "addressLineTwo": "37-550 Radymno2",
+    "waterSurface": "20ha",
+    "waterDepth": "8m",
+    "positions": 19,
+    "fishes": "5-31kg",
+    "phone": "793 026 620",
+    "url": "https://extraradymno.pl/"
+  },
+  {
+    "geoPosition": [49.65783091456823, 22.8128937112301],
+    "name": "Extra-Carp Radymno2",
+    "addressLineOne": "Ul. Piaskowa2",
+    "addressLineTwo": "37-550 Radymno2",
+    "waterSurface": "20ha",
+    "waterDepth": "8m",
+    "positions": 19,
+    "fishes": "5-31kg",
+    "phone": "793 026 620",
+    "url": "https://extraradymno.pl/"
+  },
+  {
+    "geoPosition": [49.85783091456823, 22.8128937112301],
+    "name": "Extra-Carp Radymno2",
+    "addressLineOne": "Ul. Piaskowa2",
+    "addressLineTwo": "37-550 Radymno2",
+    "waterSurface": "20ha",
+    "waterDepth": "8m",
+    "positions": 19,
+    "fishes": "5-31kg",
+    "phone": "793 026 620",
+    "url": "https://extraradymno.pl/"
+  }
+]

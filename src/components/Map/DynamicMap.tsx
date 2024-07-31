@@ -16,10 +16,10 @@ const Map = ({ children, className, width, height, ...rest }) => {
 
   useEffect(() => {
     (async function init() {
-      delete Leaflet.Icon.Default.prototype._getIconUrl;
+      // delete Leaflet.Icon.Default.prototype._getIconUrl;
       Leaflet.Icon.Default.mergeOptions({
-        iconRetinaUrl: 'leaflet/images/marker-icon-2x.png',
-        iconUrl: 'leaflet/images/marker-icon.png',
+        iconRetinaUrl: 'leaflet/images/fish-marker.svg',
+        iconUrl: 'leaflet/images/fish-marker.svg',
         shadowUrl: 'leaflet/images/marker-shadow.png',
       });
     })();
